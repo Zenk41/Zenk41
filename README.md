@@ -7,6 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zenk41)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenk41&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
