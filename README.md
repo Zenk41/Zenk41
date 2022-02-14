@@ -1,9 +1,9 @@
 
-![Github-Zenk41](https://user-images.githubusercontent.com/56034940/143673724-e11dc831-a7ed-471c-a951-82b95bccf124.png)
+![Github-Zenk41](https://github.com/Zenk41/Zenk41/blob/main/GITHUB%20TOP%20IMAGE%20PROFILE%20ARDHI%20RAMADHANI%20%40Zenk41.png)
   
-- 👋 Hi, I’m Ardhi Ramadhani
-- 👀 I’m interested in Cloud, Back-End, Android
-- 🌱 I’m currently learning Cloud
+![Github-Zenk41](https://github.com/Zenk41/Zenk41/blob/main/NAME%20IMAGE.png)
+- 👀 **I’m interested in Cloud, Back-End, Android**
+- 🌱 **I’m currently learning Cloud**
 
 <a href="https://github.com/Zenk41">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zenk41&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
