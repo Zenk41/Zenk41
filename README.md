@@ -79,6 +79,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack" />
   <img src="https://img.shields.io/badge/TemplGo-000000?style=for-the-badge&logo=templ&logoColor=white" alt="TemplGo" />
+  <img src="https://img.shields.io/badge/Testify-000000?style=for-the-badge&logo=Testify&logoColor=white" alt="Testify" />
+  <img src="https://img.shields.io/badge/Gomock-000000?style=for-the-badge&logo=Testify&logoColor=white" alt="Gomock" />
+  <img src="https://img.shields.io/badge/TestContainer-000000?style=for-the-badge&logo=TestContainer&logoColor=white" alt="TestContainer" />
+  <img src="https://img.shields.io/badge/HttpTest-000000?style=for-the-badge&logo=HttpTest&logoColor=white" alt="HttpTest" />
+  <img src="https://img.shields.io/badge/Gock-000000?style=for-the-badge&logo=Gock&logoColor=white" alt="Gock" />
 </p>
 
 ---
