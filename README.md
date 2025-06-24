@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
@@ -88,6 +89,16 @@
 
 ---
 
+### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor" />
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -96,16 +107,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenk41&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Zenk41&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📚 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor" />
-  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
 </p>
 
 ---
